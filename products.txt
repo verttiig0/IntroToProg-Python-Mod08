@@ -1,0 +1,5 @@
+Tv,999.99
+Chair,49.01
+Lamp,19.99
+Table,33.11
+Speaker,599.99
